@@ -1,11 +1,16 @@
 _repo: Practical-Phrenology-Simplified_64998
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64998-h/images/cover.jpg
 creator:
   author:
     agent_name: Foster, Theodore
     gutenberg_agent_id: '53135'
     url: http://www.gutenberg.org/2009/agents/53135
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64998#Practical-Phrenology-Simplified
 gutenberg_issued: '2021-04-05'
 gutenberg_type: Text
 identifiers:
